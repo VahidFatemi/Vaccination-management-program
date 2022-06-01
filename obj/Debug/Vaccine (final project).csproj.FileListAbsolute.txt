@@ -1,0 +1,33 @@
+D:\C#-projects\♠ Final Project ♠\Vaccine (final project)\bin\Debug\Vaccine (final project).exe.config
+D:\C#-projects\♠ Final Project ♠\Vaccine (final project)\bin\Debug\Vaccine (final project).exe
+D:\C#-projects\♠ Final Project ♠\Vaccine (final project)\bin\Debug\Vaccine (final project).pdb
+D:\C#-projects\♠ Final Project ♠\Vaccine (final project)\obj\Debug\Vaccine (final project).csprojAssemblyReference.cache
+D:\C#-projects\♠ Final Project ♠\Vaccine (final project)\obj\Debug\Vaccine__final_project_.Properties.Resources.resources
+D:\C#-projects\♠ Final Project ♠\Vaccine (final project)\obj\Debug\Vaccine (final project).csproj.GenerateResource.cache
+D:\C#-projects\♠ Final Project ♠\Vaccine (final project)\obj\Debug\Vaccine (final project).csproj.CoreCompileInputs.cache
+D:\C#-projects\♠ Final Project ♠\Vaccine (final project)\obj\Debug\Vaccine (final project).exe
+D:\C#-projects\♠ Final Project ♠\Vaccine (final project)\obj\Debug\Vaccine (final project).pdb
+D:\C#-projects\♠ Final Project ♠\Vaccine (final project)\obj\Debug\Vaccine__final_project_.Form_Register.resources
+D:\C#-projects\♠ Final Project ♠\Vaccine (final project)\obj\Debug\Vaccine__final_project_.Form_Main.resources
+E:\Vaccine (final project)\bin\Debug\Vaccine (final project).exe.config
+E:\Vaccine (final project)\bin\Debug\Vaccine (final project).exe
+E:\Vaccine (final project)\bin\Debug\Vaccine (final project).pdb
+E:\Vaccine (final project)\obj\Debug\Vaccine (final project).csprojAssemblyReference.cache
+E:\Vaccine (final project)\obj\Debug\Vaccine__final_project_.Form_Main.resources
+E:\Vaccine (final project)\obj\Debug\Vaccine__final_project_.Form_Register.resources
+E:\Vaccine (final project)\obj\Debug\Vaccine__final_project_.Properties.Resources.resources
+E:\Vaccine (final project)\obj\Debug\Vaccine (final project).csproj.GenerateResource.cache
+E:\Vaccine (final project)\obj\Debug\Vaccine (final project).csproj.CoreCompileInputs.cache
+E:\Vaccine (final project)\obj\Debug\Vaccine (final project).exe
+E:\Vaccine (final project)\obj\Debug\Vaccine (final project).pdb
+D:\C#-projects\Vaccine (final project)\bin\Debug\Vaccine (final project).exe.config
+D:\C#-projects\Vaccine (final project)\bin\Debug\Vaccine (final project).exe
+D:\C#-projects\Vaccine (final project)\bin\Debug\Vaccine (final project).pdb
+D:\C#-projects\Vaccine (final project)\obj\Debug\Vaccine (final project).csprojAssemblyReference.cache
+D:\C#-projects\Vaccine (final project)\obj\Debug\Vaccine__final_project_.Form_Main.resources
+D:\C#-projects\Vaccine (final project)\obj\Debug\Vaccine__final_project_.Form_Register.resources
+D:\C#-projects\Vaccine (final project)\obj\Debug\Vaccine__final_project_.Properties.Resources.resources
+D:\C#-projects\Vaccine (final project)\obj\Debug\Vaccine (final project).csproj.GenerateResource.cache
+D:\C#-projects\Vaccine (final project)\obj\Debug\Vaccine (final project).csproj.CoreCompileInputs.cache
+D:\C#-projects\Vaccine (final project)\obj\Debug\Vaccine (final project).exe
+D:\C#-projects\Vaccine (final project)\obj\Debug\Vaccine (final project).pdb
